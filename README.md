@@ -1,4 +1,4 @@
-#stream-color
+# stream-color
 
 This is a python script to colorize data in the Apertium stream format to hopefully make it more readable.
 
